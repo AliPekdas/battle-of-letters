@@ -1,3 +1,4 @@
+Haskell
 The letters A, B and C try to defeat the letter Z. Their goal is to leave no place for the Z to go. The Z tries to be on the left side of the other three letters on the x-axis. 
   The structure of the playing field and the initial placement of the letters:
     X A - - X
