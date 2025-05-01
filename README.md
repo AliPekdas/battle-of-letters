@@ -5,9 +5,9 @@ The letters A, B and C try to defeat the letter Z. Their goal is to leave no pla
     X C - - X
 
 The dashes show that the letters can be moved.
-  o	The Z can move in any direction.
-  o	The A, B and C can only move forward, no backward movement is allowed.
-  o	Each of the up, down, right, left and diagonally moves are counted as 1 unit.
+  The Z can move in any direction.
+  The A, B and C can only move forward, no backward movement is allowed.
+  Each of the up, down, right, left and diagonally moves are counted as 1 unit.
 
 The “X”s indicate that the forbidden places to move.
 
